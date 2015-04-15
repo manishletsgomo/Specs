@@ -5,10 +5,7 @@ s.name         = "staticLib"
 s.version      = "0.0.1"
 s.summary      = "Testing."
 
-s.description  = &lt;&lt;-DESC
-A longer description of in Markdown format.
-
-DESC
+s.description  = "A longer description of in Markdown format"
 
 s.homepage     = "http://www.letsgomo.com"
 s.license      = { :type =&gt; 'MIT', :file =&gt;'LICENSE.txt' }
