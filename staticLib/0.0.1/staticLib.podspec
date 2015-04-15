@@ -16,8 +16,8 @@ s.author             = { 'Grant' => 'manish.yadav@letsgomo.com' }
 s.platform     = :ios, '7.0'
 
 s.source = {
-  'git': 'https://github.com/manishletsgom"o/MyRepo.git',
-   'tag': '0.0.1',
+ :git => 'https://github.com/manishletsgom"o/MyRepo.git',
+ :tag => '0.0.1'
 }
 
 
