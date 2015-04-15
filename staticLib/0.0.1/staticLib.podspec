@@ -18,8 +18,11 @@ s.author             = { "Manish Hoffman" =&gt; "manish.yadav@letsgomo.com" }
 
 s.platform     = :ios, "7.0"
 
+"source": {
+  "git": "https://github.com/manishletsgom"o/MyRepo.git",
+   "tag": "0.0.1",
+}
 
-s.source       = { :git =&gt; "https://github.com/manishletsgomo/MyCode.git", :tag => "0.0.1" }
 
 s.source_files  = "*.{h,m}"
 
